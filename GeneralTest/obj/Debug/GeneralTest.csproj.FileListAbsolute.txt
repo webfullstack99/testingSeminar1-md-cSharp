@@ -1,0 +1,537 @@
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\mongocrypt.dll
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\NUnit3.TestAdapter.dll
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\NUnit3.TestAdapter.pdb
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\nunit.engine.dll
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\nunit.engine.api.dll
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\nunit.engine.core.dll
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\GeneralTest.dll.config
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\GeneralTest.dll
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\GeneralTest.pdb
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Crc32C.NET.dll
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\DnsClient.dll
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\ExtentReports.dll
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.dll
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Authentication.Core.dll
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.dll
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Diagnostics.dll
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.dll
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.HostFiltering.dll
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Hosting.dll
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Html.Abstractions.dll
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Http.dll
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.HttpOverrides.dll
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Razor.dll
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Razor.Language.dll
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Razor.Runtime.dll
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.dll
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Routing.dll
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Server.IIS.dll
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Server.IISIntegration.dll
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.dll
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Microsoft.CodeAnalysis.dll
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.Configuration.CommandLine.dll
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.Configuration.dll
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.Configuration.UserSecrets.dll
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.Logging.Configuration.dll
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.Logging.Console.dll
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.Logging.Debug.dll
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.Logging.dll
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.Logging.EventSource.dll
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.Options.dll
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Microsoft.Net.Http.Headers.dll
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\MongoDB.Bson.dll
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\MongoDB.Driver.Core.dll
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\MongoDB.Driver.dll
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\MongoDB.Libmongocrypt.dll
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Newtonsoft.Json.dll
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\nunit.framework.dll
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\RazorEngine.NetCore.dll
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\SharpCompress.dll
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Snappy.NET.dll
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\System.Buffers.dll
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\System.Collections.Immutable.dll
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\System.ComponentModel.Annotations.dll
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\System.IO.Pipelines.dll
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\System.Memory.dll
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\System.Numerics.Vectors.dll
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\System.Reflection.Metadata.dll
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\System.Security.AccessControl.dll
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\System.Security.Cryptography.Cng.dll
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\System.Security.Permissions.dll
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\System.Security.Principal.Windows.dll
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\System.Text.Encoding.CodePages.dll
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\System.Text.Encodings.Web.dll
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\WebDriver.dll
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\WebDriver.Support.dll
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Crc32C.NET.xml
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\DnsClient.xml
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.xml
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.xml
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Authentication.Core.xml
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.xml
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Diagnostics.xml
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.HostFiltering.xml
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Hosting.xml
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Html.Abstractions.xml
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Http.xml
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Http.Extensions.xml
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.HttpOverrides.xml
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Razor.xml
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Razor.Language.xml
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Razor.Runtime.xml
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Routing.xml
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.xml
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Server.IIS.xml
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Server.IISIntegration.xml
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.xml
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Core.xml
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Https.xml
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.xml
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.xml
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Microsoft.CodeAnalysis.pdb
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Microsoft.CodeAnalysis.xml
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Microsoft.CodeAnalysis.CSharp.pdb
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Microsoft.CodeAnalysis.CSharp.xml
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.Configuration.xml
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.Configuration.CommandLine.xml
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.xml
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.Configuration.UserSecrets.xml
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.Logging.xml
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.Logging.Configuration.xml
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.Logging.Console.xml
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.Logging.Debug.xml
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.Logging.EventSource.xml
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.Options.xml
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.xml
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Microsoft.Net.Http.Headers.xml
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\MongoDB.Bson.xml
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\MongoDB.Driver.xml
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\MongoDB.Driver.Core.xml
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Newtonsoft.Json.xml
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\nunit.framework.pdb
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\nunit.framework.xml
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\Snappy.NET.xml
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\System.Buffers.xml
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\System.Collections.Immutable.xml
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\System.IO.Pipelines.xml
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\System.Memory.xml
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\System.Numerics.Vectors.xml
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\System.Reflection.Metadata.xml
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\System.Text.Encodings.Web.xml
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\WebDriver.xml
+E:\winform_apps\GeneralTest\GeneralTest\bin\Debug\WebDriver.Support.xml
+E:\winform_apps\GeneralTest\GeneralTest\obj\Debug\GeneralTest.csproj.CoreCompileInputs.cache
+E:\winform_apps\GeneralTest\GeneralTest\obj\Debug\GeneralTest.csproj.CopyComplete
+E:\winform_apps\GeneralTest\GeneralTest\obj\Debug\GeneralTest.dll
+E:\winform_apps\GeneralTest\GeneralTest\obj\Debug\GeneralTest.pdb
+E:\winform_apps\GeneralTest\GeneralTest\obj\Debug\GeneralTest.csprojAssemblyReference.cache
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\mongocrypt.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\nunit.engine.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\nunit.engine.api.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\nunit.engine.core.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\GeneralTest.dll.config
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\GeneralTest.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\GeneralTest.pdb
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Crc32C.NET.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\DnsClient.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\ExtentReports.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.HostFiltering.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Hosting.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Http.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Razor.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Routing.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Server.IIS.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Microsoft.CodeAnalysis.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Microsoft.Net.Http.Headers.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\MongoDB.Bson.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\MongoDB.Driver.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\nunit.framework.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\RazorEngine.NetCore.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\SharpCompress.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Snappy.NET.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\System.Buffers.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\System.Memory.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\System.Security.Cryptography.Cng.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\System.Security.Permissions.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\WebDriver.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\WebDriver.Support.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Crc32C.NET.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\DnsClient.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Diagnostics.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.HostFiltering.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Hosting.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Html.Abstractions.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Http.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.HttpOverrides.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Razor.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Razor.Language.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Razor.Runtime.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Routing.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Server.IIS.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Server.IISIntegration.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Core.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Https.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Microsoft.CodeAnalysis.pdb
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Microsoft.CodeAnalysis.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Microsoft.CodeAnalysis.CSharp.pdb
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Microsoft.CodeAnalysis.CSharp.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.Configuration.CommandLine.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.Configuration.UserSecrets.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.Logging.Configuration.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.Logging.Console.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.Logging.Debug.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.Logging.EventSource.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Microsoft.Net.Http.Headers.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\MongoDB.Bson.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\MongoDB.Driver.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\nunit.framework.pdb
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\nunit.framework.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\Snappy.NET.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\System.Buffers.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\System.Memory.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\System.Reflection.Metadata.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\WebDriver.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\bin\Debug\WebDriver.Support.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\obj\Debug\GeneralTest.csprojAssemblyReference.cache
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\obj\Debug\GeneralTest.csproj.CoreCompileInputs.cache
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\obj\Debug\GeneralTest.csproj.CopyComplete
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\obj\Debug\GeneralTest.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\GeneralTest\obj\Debug\GeneralTest.pdb
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\mongocrypt.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\nunit.engine.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\nunit.engine.api.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\nunit.engine.core.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\GeneralTest.dll.config
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\GeneralTest.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\GeneralTest.pdb
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Crc32C.NET.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\DnsClient.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\ExtentReports.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Diagnostics.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.HostFiltering.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Hosting.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Html.Abstractions.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Http.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.HttpOverrides.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Razor.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Razor.Runtime.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Routing.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Server.IIS.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Server.IISIntegration.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Microsoft.CodeAnalysis.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.Logging.Console.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.Logging.EventSource.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Microsoft.Net.Http.Headers.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\MongoDB.Bson.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\MongoDB.Driver.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\nunit.framework.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\RazorEngine.NetCore.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\SharpCompress.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Snappy.NET.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\System.Buffers.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\System.Memory.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\System.Reflection.Metadata.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\System.Security.Cryptography.Cng.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\System.Security.Permissions.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\WebDriver.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\WebDriver.Support.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Crc32C.NET.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\DnsClient.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Diagnostics.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Diagnostics.Abstractions.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.HostFiltering.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Hosting.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Html.Abstractions.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Http.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.HttpOverrides.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Razor.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Razor.Language.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Razor.Runtime.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Routing.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Server.IIS.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Server.IISIntegration.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Core.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Https.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Microsoft.CodeAnalysis.pdb
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Microsoft.CodeAnalysis.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Microsoft.CodeAnalysis.CSharp.pdb
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Microsoft.CodeAnalysis.CSharp.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.Configuration.CommandLine.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.Configuration.EnvironmentVariables.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.Configuration.UserSecrets.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.Logging.Configuration.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.Logging.Console.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.Logging.Debug.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.Logging.EventSource.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Microsoft.Net.Http.Headers.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\MongoDB.Bson.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\MongoDB.Driver.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\nunit.framework.pdb
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\nunit.framework.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\Snappy.NET.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\System.Buffers.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\System.Memory.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\System.Reflection.Metadata.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\WebDriver.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\bin\Debug\WebDriver.Support.xml
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\obj\Debug\GeneralTest.csprojAssemblyReference.cache
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\obj\Debug\GeneralTest.csproj.CoreCompileInputs.cache
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\obj\Debug\GeneralTest.csproj.CopyComplete
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\obj\Debug\GeneralTest.dll
+C:\Users\Asus ZenBook\Desktop\docs\KTPM\Seminar\TestScripts\GeneralTest\GeneralTest\obj\Debug\GeneralTest.pdb
