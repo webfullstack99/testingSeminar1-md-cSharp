@@ -8,5 +8,6 @@ namespace GeneralTest
 {
     public class Class1
     {
+
     }
 }
