@@ -38,13 +38,14 @@ namespace GeneralTest.TestCases
         [Category("Login")]
         public void test_invalidPassword()
         {
-                String email = "nguyenvana@gmail.com";
-                String password = "fakepass";
+            String email = "nguyenvana@gmail.com";
+            String password = "fakepass";
             try
             {
                 testLogin(email, password);
             }
-            catch (Exception e) {
+            catch (Exception e)
+            {
                 Assert.IsTrue(false);
             }
         }
@@ -56,15 +57,18 @@ namespace GeneralTest.TestCases
             String email = "fakeemail@gmai.com";
             String password = "12345678";
             try { testLogin(email, password); }
-            catch (Exception e) { 
+            catch (Exception e)
+            {
                 Assert.IsTrue(false);
             }
         }
 
         public void testLogin(String email, String password)
         {
-            logInfo($"email: {email}");
-            logInfo($"password: {password}");
+            logInfo($"<p>" +
+                        $"<b>email:</b> {email}<br/>" +
+                        $"<b>password:</b> {password}" +
+                    $"</p>");
             loginPage = new LoginPage(getDriver());
             loginPage.navigateToLoginPage();
             loginPage.sendEmail(email);
